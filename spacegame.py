@@ -1,3 +1,8 @@
+'''
+소스코드는 '박쌤과 함께 다양한 예제로 배우는 완전 쉬운 파이썬 3'책의 예제 부분을 일부 참고했습니다
+http://www.atio.co.kr/bbs/download.php?bo_table=sub0301&wr_id=32&no=0
+'''
+
 import random
 import time
 import pygame
